@@ -1,0 +1,39 @@
+Tisdag 26 Mars:
+1. Skapat objekt för många olika saker som kommer vara viktigt för spelet.
+2. Skapat en metod för att ta in spelarens namn.
+
+Som ska göras:
+1. Börja med spel metoden
+2. Kolla i pseudo koden.
+------------------------------------------------------------------------------------------------------------------------
+Torsdag 28 Mars:
+1. Börjat med själva spelandet
+
+Som ska göras:
+1. Fortsätta med ovan
+------------------------------------------------------------------------------------------------------------------------
+Måndag 8 April:
+1. Nästan gjort klart spel metoden förutom battle-delen. Haft lite problem med tärnkasten och poängsparandet.
+
+Som ska göras: Fortsätta ovan och börja med battle-delen.
+------------------------------------------------------------------------------------------------------------------------
+Tisdag 9 April:
+1. Gjort klart spel metoden förutom battle-delen.
+2. Påbörjat battle-delen
+
+Som ska göras: Göra klart battle-delen.
+------------------------------------------------------------------------------------------------------------------------
+Torsdag 11 April:
+1. Fortsatt med battle-delen
+2. Har gjort några nya objekt som jag behöver använda
+
+Som ska göras: Bara fortsätta med battle-delen. Just nu så kastar den tärningarna bara en gång, även ifall jag får ett battleNumber.
+------------------------------------------------------------------------------------------------------------------------
+Onsdag 17 April:
+1. Mest tänkt på hur jag ska strukturera upp resten, kunde inte koncentrera mig så mycket idag.
+
+Som ska göras: Använda min mind-map för att göra klart resten.
+------------------------------------------------------------------------------------------------------------------------
+Torsdag 18 April:
+1. Gjort klart battle-metoden för det mesta, finns en bugg där efter att man har attackerat någon så printar det ut två
+tärningskast av någon anledning.
